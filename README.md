@@ -1,6 +1,6 @@
 ### Hi, I'm Damian 👋
 
-I'm data science📊, software development💻  and aviation✈️ enthusiast. I love to code in Python 🐍.
+I'm data science📊, software development💻  and aviation✈️ enthusiast.
 
 ***
 ### My projects:
