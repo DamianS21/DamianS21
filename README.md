@@ -3,7 +3,7 @@
 I do aviation, AI, and stuff.
 
 Projects:
-- notamify.com
-- skymerse.com
-- pdfmerse.com
-- synthlink.com (abandoned)
+- [notamify.com]
+- [skymerse.com]
+- [pdfmerse.com]
+- [synthlink.com] (abandoned)
